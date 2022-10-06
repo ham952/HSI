@@ -1,0 +1,14 @@
+*.jpg
+*.png
+*.kml
+*.zip
+*.icp
+*.pdf
+*.exe
+*.mp4
+*.txt
+*.conf
+*.m4a
+**/Hyperspectral_camera
+**/Pika L Dataset
+**/Extra Dataset
